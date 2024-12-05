@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 29/11/2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -30,7 +30,7 @@
 ### d. Path Planning:
 ### Path planning helps to improve the printed surface quality, shape accuracy and infill distribution quality. There are various ways for path planning which can be used to print the objects which may affect the following factors in objects like raster path, grid path, spiral path and zigzag path.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/baef8515-67d7-4c96-accc-4ee88035c9e7)
+![image](https://github.com/user-attachments/assets/b562fcbe-ed52-454a-8bd5-f016b4af87f3)
 
 ### ●	All the processes related to pre-processing will be shown on the screen.
 ### ●	Select CAD file preparation from the visible list.
@@ -38,13 +38,18 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
+![image](https://github.com/user-attachments/assets/3cf35afc-ec78-450e-925d-7b8d283c5662)
+![image](https://github.com/user-attachments/assets/eb4905d2-4819-43bb-9fb7-76a5d2c0c378)
+![image](https://github.com/user-attachments/assets/b95786d6-6b9c-43c7-bb80-ec5be522a2be)
+
 ## OUTPUT:
-![img 1 pics](https://github.com/user-attachments/assets/6a4a32d9-bf41-4e57-b626-a76b421d6d17)
-![img 2 pics](https://github.com/user-attachments/assets/b96a6d1f-baee-4579-9d47-22ff108cd8ff)
-![img 3 pics 2024-11-29 at 14 38 06_28944fee](https://github.com/user-attachments/assets/b9f9aaf1-2190-495a-8cb0-7c3e9c9c79f0)
+![image](https://github.com/user-attachments/assets/426552ae-36dd-48e2-987e-538177fc9ed7)
 
 
-### Name:
+
+
+
+### Name:Jassir Sulthan K
 ### Register Number:24901084
 
 ## Result: 
