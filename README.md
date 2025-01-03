@@ -43,7 +43,7 @@
 ![image](https://github.com/user-attachments/assets/b95786d6-6b9c-43c7-bb80-ec5be522a2be)
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/426552ae-36dd-48e2-987e-538177fc9ed7)
+![Screenshot 2025-01-03 at 13 31 07_997096cb](https://github.com/user-attachments/assets/8e8abf77-1679-4b3d-873b-d8ef1b4d9d8e)
 
 
 
